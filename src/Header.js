@@ -16,7 +16,8 @@ function Header() {
         </div>
 
         <div className='header__right'>
-
+            <HeaderOption title='Home' />
+            <HeaderOption title='My Network' />
         </div>
 
     </div>
