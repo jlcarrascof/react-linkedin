@@ -6,9 +6,17 @@ function Sidebar() {
   return <div className='sidebar'>
     <div className='sidebar__top'>
         <img src='' alt='' />
-        <Avatar />
-        <h2>Me</h2>
-        <h4>5h3h4@example.com</h4>
+        <Avatar className='sidebar__avatar' />
+        <h2>Javier Martineze</h2>
+        <h4>javier.martinez@gmail.com</h4>
+    </div>
+
+    <div className='sidebar__stats'>
+        <div className='sidebar__stat'>
+        </div>
+
+        <div className='sidebar__stat'>
+        </div>
     </div>
   </div>;
 
