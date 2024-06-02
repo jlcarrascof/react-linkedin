@@ -22,6 +22,10 @@ function Sidebar() {
             <p className='sidebar__statNumber'>2,448</p>
         </div>
     </div>
+
+    <div className='sidebar__bottom'>
+        <p>Recent</p>
+    </div>
   </div>;
 
 }
