@@ -98,3 +98,8 @@
     margin-right: 5px;
     margin-left: 5px;
 }
+
+.sidebar__bottom > p {
+    font-size: 13px;
+    padding-bottom: 10px;
+}
