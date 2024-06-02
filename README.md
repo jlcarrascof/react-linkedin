@@ -47,3 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Video control🧮
 1:03:35 Beginning Sidebar
+1:33:05 Beginning Feed Section
