@@ -86,3 +86,15 @@
     margin-bottom: 5px;
     padding: 5px;
 }
+
+.sidebar__recentItem:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+.sidebar__hash {
+    margin-right: 5px;
+    margin-left: 5px;
+}
